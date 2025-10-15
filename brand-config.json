@@ -1,0 +1,84 @@
+{
+  "app": {
+    "name": "ARIA",
+    "productName": "ARIA \"Advanced Reasoning Intelligence Assistant\"",
+    "appId": "com.placeholder.aria",
+    "description": "ARIA, an advanced reasoning intelligence assistant.",
+    "author": "Placeholder Author",
+    "website": "https://placeholder.com",
+    "copyright": "© 2024 Placeholder Author",
+    "executableName": "ARIA"
+  },
+  "update": {
+    "baseUrl": "https://placeholder.com/update/"
+  },
+  "i18n": {
+    "appTitle": {
+      "en-US": "ARIA",
+      "zh-CN": "ARIA",
+      "zh-TW": "ARIA",
+      "zh-HK": "ARIA",
+      "ja-JP": "ARIA",
+      "ko-KR": "ARIA",
+      "ru-RU": "ARIA",
+      "fr-FR": "ARIA",
+      "fa-IR": "ARIA",
+      "pt-BR": "ARIA"
+    },
+    "appDescription": {
+      "en-US": "ARIA is an advanced reasoning intelligence assistant.",
+      "zh-CN": "ARIA 是一个高级推理智能助手。",
+      "zh-TW": "ARIA 是一款高級推理智慧助理。",
+      "zh-HK": "ARIA 是一個高級推理智能助手。",
+      "ja-JP": "ARIAは、高度な推論知能アシスタントです。",
+      "ko-KR": "ARIA는 고급 추론 지능 보조 장치입니다。",
+      "ru-RU": "ARIA - это продвинутый ассистент по интеллектуальному анализу.",
+      "fr-FR": "ARIA est un assistant d'intelligence de raisonnement avancé.",
+      "fa-IR": "ARIA یک دستیار هوش استدلال پیشرفته است.",
+      "pt-BR": "A ARIA é uma assistente de inteligência de raciocínio avançado."
+    },
+    "websiteText": {
+      "en-US": "Visit Our Website",
+      "zh-CN": "访问我们的网站",
+      "zh-TW": "造訪我們的網站",
+      "zh-HK": "訪問我們的網站",
+      "ja-JP": "ウェブサイトを訪問",
+      "ko-KR": "웹사이트 방문",
+      "ru-RU": "Посетить наш сайт",
+      "fr-FR": "Visitez notre site web",
+      "fa-IR": "وبسایت ما را ببینید",
+      "pt-BR": "Visite nosso site"
+    },
+    "welcomeTitle": {
+      "en-US": "Welcome to ARIA",
+      "zh-CN": "欢迎使用 ARIA",
+      "zh-TW": "歡迎使用 ARIA",
+      "zh-HK": "歡迎使用 ARIA",
+      "ja-JP": "ARIAへようこそ",
+      "ko-KR": "ARIA에 오신 것을 환영합니다",
+      "ru-RU": "Добро пожаловать в ARIA",
+      "fr-FR": "Bienvenue sur ARIA",
+      "fa-IR": "به ARIA خوش آمدید",
+      "pt-BR": "Bem-vindo à ARIA"
+    },
+    "welcomeSetupDescription": {
+      "en-US": "Let's start setting up ARIA",
+      "zh-CN": "让我们开始设置 ARIA",
+      "zh-TW": "讓我們開始設定 ARIA",
+      "zh-HK": "讓我們開始設置 ARIA",
+      "ja-JP": "ARIAの設定を始めましょう",
+      "ko-KR": "ARIA 설정을 시작합시다",
+      "ru-RU": "Начнем настройку ARIA",
+      "fr-FR": "Commençons la configuration de ARIA",
+      "fa-IR": "بیایید تنظیم ARIA را شروع کنیم",
+      "pt-BR": "Vamos começar a configurar a ARIA"
+    }
+  },
+  "github": {
+    "repository": "Placeholder/ARIA"
+  },
+  "mcp": {
+    "serverDescriptionSuffix": "ARIA built-in",
+    "serverDescriptionSuffixEn": "ARIA built-in"
+  }
+}

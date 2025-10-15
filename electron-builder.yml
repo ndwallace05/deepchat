@@ -1,5 +1,5 @@
-appId: com.wefonk.deepchat
-productName: DeepChat
+appId: com.placeholder.aria
+productName: ARIA "Advanced Reasoning Intelligence Assistant"
 directories:
   buildResources: build
 files:
@@ -52,11 +52,11 @@ electronLanguages:
   - pt-BR
   - pt
 win:
-  executableName: DeepChat
+  executableName: ARIA
 nsis:
   artifactName: ${name}-${version}-windows-${arch}.${ext}
-  shortcutName: ${productName}
-  uninstallDisplayName: ${productName}
+  shortcutName: ARIA "Advanced Reasoning Intelligence Assistant"
+  uninstallDisplayName: ARIA "Advanced Reasoning Intelligence Assistant"
   createDesktopShortcut: always
   allowToChangeInstallationDirectory: true
   oneClick: false
@@ -82,7 +82,7 @@ linux:
   target:
     - AppImage
     - tar.gz
-  maintainer: ThinkInAIXYZ
+  maintainer: Placeholder Author
   category: Utility
   artifactName: ${name}-${version}-linux-${arch}.${ext}
   mimeTypes:
@@ -90,4 +90,4 @@ linux:
 npmRebuild: true
 publish:
   provider: generic
-  url: https://cdn.deepchatai.cn/upgrade/
+  url: https://placeholder.com/update/
