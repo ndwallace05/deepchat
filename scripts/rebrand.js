@@ -50,11 +50,11 @@ function info(message) {
 
 // 读取品牌配置
 function loadBrandConfig() {
-  const configPath = path.join(PROJECT_ROOT, 'brand-config.template.json')
+  const configPath = path.join(PROJECT_ROOT, 'brand-config.json')
 
   if (!fs.existsSync(configPath)) {
-    error('品牌配置文件不存在: brand-config.template.json')
-    error('请先创建并配置 brand-config.template.json 文件')
+    error('品牌配置文件不存在: brand-config.json')
+    error('请先创建并配置 brand-config.json 文件')
     process.exit(1)
   }
 

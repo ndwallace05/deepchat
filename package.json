@@ -1,9 +1,9 @@
 {
-  "name": "DeepChat",
+  "name": "ARIA",
   "version": "0.4.0",
-  "description": "DeepChat，一个简单易用的AI客户端",
+  "description": "ARIA, an advanced reasoning intelligence assistant.",
   "main": "./out/main/index.js",
-  "author": "ThinkInAIXYZ",
+  "author": "Placeholder Author",
   "type": "module",
   "engines": {
     "node": ">=20.19.0",
